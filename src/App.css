@@ -30,3 +30,8 @@ body {
   width: 250px;
   margin-top: 30px;
 }
+
+p {
+  font-family: roboto;
+  font-weight: bold;
+}
