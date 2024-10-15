@@ -57,6 +57,7 @@ const App = () => {
         ))}
       </ul>
       <img src={imageUrl} className="image" alt={imageAltText} />
+      <p>Developed by Rakesh karthik</p>
     </div>
   )
 }
